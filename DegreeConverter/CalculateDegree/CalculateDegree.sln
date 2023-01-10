@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateDegree", "CalculateDegree.csproj", "{587E7547-520D-4A9A-8466-0F4778C48035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegreeConverter.Tests", "..\DegreeConverter.Tests\DegreeConverter.Tests.csproj", "{0F4CD773-3B66-40A8-BD60-2C29717BBF95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587E7547-520D-4A9A-8466-0F4778C48035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587E7547-520D-4A9A-8466-0F4778C48035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587E7547-520D-4A9A-8466-0F4778C48035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587E7547-520D-4A9A-8466-0F4778C48035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4CD773-3B66-40A8-BD60-2C29717BBF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4CD773-3B66-40A8-BD60-2C29717BBF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4CD773-3B66-40A8-BD60-2C29717BBF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4CD773-3B66-40A8-BD60-2C29717BBF95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F36A81-B002-47CE-82F9-E4188AD174F5}
+	EndGlobalSection
+EndGlobal

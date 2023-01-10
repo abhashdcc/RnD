@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\DegreeConverter.Tests\\DegreeConverter.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\CalculateDegree\\CalculateDegree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\CalculateDegree\\CalculateDegree.csproj",
+        "projectName": "CalculateDegree",
+        "projectPath": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\CalculateDegree\\CalculateDegree.csproj",
+        "packagesPath": "C:\\Users\\abhash.dc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\CalculateDegree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhash.dc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\DegreeConverter.Tests\\DegreeConverter.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\DegreeConverter.Tests\\DegreeConverter.Tests.csproj",
+        "projectName": "DegreeConverter.Tests",
+        "projectPath": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\DegreeConverter.Tests\\DegreeConverter.Tests.csproj",
+        "packagesPath": "C:\\Users\\abhash.dc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\DegreeConverter.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhash.dc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\CalculateDegree\\CalculateDegree.csproj": {
+                "projectPath": "C:\\Users\\abhash.dc\\OneDrive - Cotiviti\\Documents\\RnD\\DegreeConverter\\CalculateDegree\\CalculateDegree.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

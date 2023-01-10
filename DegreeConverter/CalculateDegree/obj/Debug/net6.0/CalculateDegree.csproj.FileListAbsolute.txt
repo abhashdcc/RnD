@@ -1,0 +1,15 @@
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\bin\Debug\net6.0\CalculateDegree.exe
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\bin\Debug\net6.0\CalculateDegree.deps.json
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\bin\Debug\net6.0\CalculateDegree.runtimeconfig.json
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\bin\Debug\net6.0\CalculateDegree.dll
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\bin\Debug\net6.0\CalculateDegree.pdb
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.csproj.AssemblyReference.cache
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.AssemblyInfoInputs.cache
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.AssemblyInfo.cs
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.csproj.CoreCompileInputs.cache
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.dll
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\refint\CalculateDegree.dll
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.pdb
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\CalculateDegree.genruntimeconfig.cache
+C:\Users\abhash.dc\OneDrive - Cotiviti\Documents\RnD\DegreeConverter\CalculateDegree\obj\Debug\net6.0\ref\CalculateDegree.dll
